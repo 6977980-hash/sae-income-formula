@@ -1,0 +1,9 @@
+{
+  "name": "sae-income-formula",
+  "version": "1.0.0",
+  "description": "Steal an Egg (Roblox) pet income formula, fan-made and tested",
+  "type": "module",
+  "main": "income.js",
+  "scripts": { "test": "node --test" },
+  "license": "MIT"
+}
